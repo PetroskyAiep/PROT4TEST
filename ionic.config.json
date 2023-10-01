@@ -1,0 +1,7 @@
+{
+  "name": "PROT4TEST",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
